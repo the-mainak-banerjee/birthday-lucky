@@ -41,6 +41,10 @@ button{
     cursor: pointer;
 }
 
+.output-box{
+    font-size: 20px;
+}
+
 footer{
     background-color: #49A0EB;
     padding: 30px;
